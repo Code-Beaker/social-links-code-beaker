@@ -11,6 +11,7 @@ This is a solution to the **Social Links Profile** challenge with custom design.
 - [Preview](#preview)
   - [Desktop](#desktop)
   - [Mobile](#mobile)
+- [Personal Links](#personal-links)
 
 ## Changes
 
