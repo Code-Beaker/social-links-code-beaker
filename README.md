@@ -34,3 +34,9 @@ Preview of the page on different screen sizes.
 ![image](https://github.com/Code-Beaker/social-links-code-beaker/assets/99812762/cbbb2725-2514-4616-a202-fa5692cbca23)
 ### Mobile
 ![image](https://github.com/Code-Beaker/social-links-code-beaker/assets/99812762/164aaa37-28a8-45de-9b30-6863d732559a)
+
+## Links
+Hosted on GitHub and deployed to Vercel and Netlify.
+- [Repository](https://github.com/Code-Beaker/social-links-code-beaker)
+- [Vercel Deploy](https://social-links-code-beaker-custom.vercel.app/)
+- [Netlify Deploy](https://social-links-profile-code-beaker.netlify.app/)
